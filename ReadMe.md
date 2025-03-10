@@ -27,12 +27,19 @@
     Question: Group the albums by ArtistID and count the number of albums each artist has.
 
 
+
+
+
 2. **Yearly Distribution of Songs Released**
    
     Question: Group the songs by ReleaseYear and count the number of songs released per year.
     Display the result DF in ascending order.
 
     Task: Plot a line chart showing the trend of song releases over time.
+    
+    
+    
+    
     
 
 3. **Most Popular Genres Based on Average Song Popularity**
