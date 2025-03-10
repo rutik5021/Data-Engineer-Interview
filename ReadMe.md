@@ -25,13 +25,19 @@
 [//]: # (===============================================================================================================)
 
 1. **Number of Albums Per Artist**
+   
 Question: Group the albums by ArtistID and count the number of albums each artist has.
+
 Task: Plot a bar chart showing the top 10 artists with the most albums.
 
 2. **Yearly Distribution of Songs Released**
+   
 Question: Group the songs by ReleaseYear and count the number of songs released per year.
+
 Task: Plot a line chart showing the trend of song releases over time.
 
 3. **Most Popular Genres Based on Average Song Popularity**
+   
 Question: Join the songs and artists datasets using ArtistID, then group by Genre and calculate the average popularity score for each genre.
+
 Task: Plot a bar chart showing the top genres by average song popularity.
