@@ -44,5 +44,5 @@
 
 3. **Most Popular Genres Based on Average Song Popularity**
 
-    Question: Join the songs and artists datasets using ArtistID, then group by Genre and calculate the average popularity score for each genre.
+    Question: Analyze the relationship between music genres and song popularity. Calculate the average popularity score for each genre
     
