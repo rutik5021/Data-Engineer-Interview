@@ -33,7 +33,7 @@
 2. **Yearly Distribution of Songs Released**
    
     Question: Group the songs by ReleaseYear and count the number of songs released per year.
-    Display the result DF in ascending order.
+    Print the highest and the lowest number of songs released.
 
     Task: Plot a line chart showing the trend of song releases over time.
     
