@@ -24,7 +24,7 @@
 
 1. **Number of Albums Per Artist**
    
-    Question: Group the albums by ArtistID and count the number of albums each artist has.
+    Group the albums by ArtistID and count the number of albums each artist has.
 
 
 
@@ -32,10 +32,10 @@
 
 2. **Yearly Distribution of Songs Released**
    
-    Question: Group the songs by ReleaseYear and count the number of songs released per year.
+    Group the songs by ReleaseYear and count the number of songs released per year.
     Print the highest and the lowest number of songs released.
 
-    Task: Plot a line chart showing the trend of song releases over time.
+    Plot a line chart showing the trend of song releases over time.
     
     
     
@@ -44,5 +44,5 @@
 
 3. **Most Popular Genres Based on Average Song Popularity**
 
-    Question: Analyze the relationship between music genres and song popularity. Calculate the average popularity score for each genre
+    Analyze the relationship between music genres and song popularity. Calculate the average popularity score for each genre
     
