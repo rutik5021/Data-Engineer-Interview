@@ -24,7 +24,7 @@
 
 1. **Number of Albums Per Artist**
    
-    Group the albums by ArtistID and count the number of albums each artist has.
+    Determine how many albums each artist has based on their ArtistID.
 
 
 
@@ -32,8 +32,8 @@
 
 2. **Yearly Distribution of Songs Released**
    
-    Group the songs by ReleaseYear and count the number of songs released per year.
-    Print the highest and the lowest number of songs released.
+    Identify the number of songs released in each year.
+    Print the highest and the lowest number of songs released along with the year.
 
     Plot a line chart showing the trend of song releases over time.
     
