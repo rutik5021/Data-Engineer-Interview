@@ -6,7 +6,7 @@
 [//]: # (===============================================================================================================)
 ## Requirements
 [//]: # (===============================================================================================================)
-1. VS Code [Or any other Code Editor]: 
+1. VS Code [Or any other local Code Editor] (No online compilers, Google Colab, etc.): 
 2. Python
 3. Feel free to use other tools, such as Documentation, stack overflow, etc.
     - Tools such as ChatGPT/AI are not allowed
