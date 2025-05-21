@@ -32,8 +32,7 @@
 
 2. **Yearly Distribution of Songs Released**
    
-    Identify the number of songs released in each year.
-    Print the highest and the lowest number of songs released along with the year.
+    Identify the number of songs released in each year. Out of those, print the highest and the lowest number of songs released along with the year.
 
     Plot a line chart showing the trend of song releases over time.
     
