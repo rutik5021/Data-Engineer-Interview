@@ -16,7 +16,7 @@
 ## Instructions
 [//]: # (===============================================================================================================)
 1. This challenge involves working with a dataset representing a music catalog, including songs, albums, and artists.
-
+It is expected to execute the code using the given csv files and show output.
 
 [//]: # (===============================================================================================================)
 ## Questions
